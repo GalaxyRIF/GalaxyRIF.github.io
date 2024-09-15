@@ -12,7 +12,7 @@ title                    : "Ziang Yan's Homepage"
 title_separator          : "-"
 name                     : &name "Ziang Yan"
 description              : &description "personal description"
-url                      : https://galaxyrif.github.io/GalaxyRIF001.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://galaxyrif.github.io/# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
