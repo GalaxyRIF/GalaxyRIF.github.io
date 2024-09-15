@@ -9,23 +9,11 @@ main:
     url: /publications/
 
   - title: "CV"
-    url: /cv/
-
-  # - title: "Talks"
-  #   url: /talks/    
+    url: /cv/ 
 
   - title: "Teaching"
     url: /teaching/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
-
   - title: "MathLab"
     url: /mathlab/    
 
-  - title: "Blog Posts"
-    url: /year-archive/
-  
-    
-  - title: "Guide"
-    url: /markdown/
