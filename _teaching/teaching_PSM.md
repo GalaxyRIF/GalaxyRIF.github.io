@@ -1,7 +1,7 @@
 ---
 title: "PSM Mentor 2023"
 collection: teaching
-type: "Undergraduate course"
+type: "Summer camp Math Mentor"
 permalink: /teaching/2023-PSM-Mentor
 venue: "Imperial College London, Department of Mathematics"
 date: Jun. 2023 - Sep. 2023 

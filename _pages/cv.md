@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sci. in Mathematics, Imperial College London, 2024
+* B.Sc. in Mathematics, Imperial College London, 2023
 
 Work experience
 ======
@@ -59,6 +58,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Cubing
 ======
-* Currently signed in to 43 different slack teams
+* Co-founded UK cubing League, an inter-university cubing assocation. Served as a committee member
