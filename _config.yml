@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-UK"
+locale                   : "en-US"
 title                    : "Ziang Yan's Homepage"
 title_separator          : "-"
 name                     : &name "Ziang Yan"
