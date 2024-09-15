@@ -14,7 +14,7 @@ Education
 * M.Sci. in Mathematics, Imperial College London, 2024
 * B.Sc. in Mathematics, Imperial College London, 2023
 
-Work experience
+Research Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -39,7 +39,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -50,14 +50,30 @@ Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+Teaching and acedemic related
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+---
+* PSM Mentor 2023
+    * "Summer camp Math Mentor"
+    * "Imperial College London, Department of Mathematics"
+    * Jun. 2023 - Sep. 2023 
+    * location: "London, United Kingdom"
+
+* "Peer tutor"
+  * permalink: /teaching/peertutor
+  * venue: "Imperial College London, Department of Mathematics"
+  * date: Oct. 2023 - May. 2024 
+  * location: "London, United Kingdom" 
+
+* Student Panelist for Lecturer selection
+* venue: "Imperial College London, Department of Mathematics"
+* date: Oct. 2023 - May. 2024 
+* location: "London, United Kingdom" 
+---
   
 Cubing
 ======
-* Co-founded UK cubing League, an inter-university cubing assocation. Served as a committee member
+* Chair of Imperial Cubing League, 2023-2024
+* Co-founded UK Cubing League, an inter-university cubing assocation. Served as a committee member.

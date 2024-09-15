@@ -7,19 +7,19 @@ collection: mathlab
 
 Welcome to the collection of my MathLab. This is a repositories of mathematical tools, notes and mindmaps.
 
-## Category
+## Items
 
 - Computer Programmes
-    - $\mathbb{R}^3$ surface calculator [.ipynb](/assets/MathLab/R%5E3_surface_Calc.ipynb)
-    - (Ipynb) Quadratic field calculator [.ipynb](/assets/MathLab/Quadratic%20fields.ipynbb)
+    - R^3 surface calculator [.ipynb](/assets/MathLab/R%5E3_surface_Calc.ipynb)
+    - Quadratic field calculator [.ipynb](/assets/MathLab/Quadratic%20fields.ipynb)
 
 - Notes
     - Functional Analysis Notes: A notes compiled by me and my friends, based on Dr. Pierre-Francois Rodriguez's course in 2022 [pdf](/assets/MathLab/FA_Notes.pdf)
     - A Short note on conditional probability
 
 - Projects
-    - Impvis project
-    - Python simulation of ramdom media (M2R).
+    - Impvis project [Impvis Wiki](https://wiki.impvis.co.uk/index.php?title=X-ray_diffraction)
+    - Python simulation of ramdom media in research of homogenization [Github](https://github.com/Desmond-LIN-Y/Homogenization). 
 
 - Mindmaps (made for undergraduate level courses)
 
