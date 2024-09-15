@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 
 My name is Ziang Yan (晏子昂). I am a mathematician and speedcuber. I graduated as a master from Imperial college London in 2024.
 
