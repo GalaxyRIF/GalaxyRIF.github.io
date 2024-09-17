@@ -16,20 +16,26 @@ Education
 
 Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2022: Group research on Homogenisation problems
+  * Supervisor: Dr. Arianna Giunti, Imperial College London
+  * Key words: homogenisation problem, numerical simulation
+  * [Project report](/assets/M2R_Homogenisation.pdf)
+  * [Project Github](https://github.com/Desmond-LIN-Y/Homogenization)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  We worked in a group of six people and studied the theory of homogenisation. 
+  Detaile topic include:
+    * 1-D homogenisation: full proof of existence and uniqueness of 1-D peridoic case, and sketch proof of 1-D stochastic case.
+    * N-D homogenisation: sketech proof
+    * Numerical verification: two people were responsible for the numerical simulation of the homogenisation in Python. Desmond Lin used Iterative Stencil Loop Method, and I used Relaxation method. Both methods were applied to both 2-D stochastic and 2-D periodic(layered) cases.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2021: Impvis project
+  * Supervisor:  Dr. Jonathan Rackham and Dr. Paul Franklyn, Department of Materials, Imperial College.
+
+  * This is a group project where students from different department collaborated to design interactive visualisation of certain concepts. We focused on the concept of X-ray diffraction, and the work was split into several parts. 
+  * I was responsible for the visualisation of Ewald's sphere, which is a concept created to exaplain the how change in wavelength of the light interact with the lattice points. 
+  * More information and the interative visualisations available at [Impvis Wiki](https://wiki.impvis.co.uk/index.php?title=X-ray_diffraction).
+
+
   
 Skills
 ======
