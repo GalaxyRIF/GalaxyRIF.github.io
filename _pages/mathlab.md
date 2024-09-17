@@ -9,7 +9,7 @@ Welcome to the collection of my MathLab. This is a repositories of mathematical 
 
 ## Items
 
-- Computer Programmes
+- Gadgets
     - R^3 surface calculator [.ipynb](/assets/MathLab/R%5E3_surface_Calc.ipynb)
     - Quadratic field calculator [.ipynb](/assets/MathLab/Quadratic%20fields.ipynb)
 
